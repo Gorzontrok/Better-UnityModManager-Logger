@@ -1,6 +1,6 @@
 # Better-UnityModManager-Logger
  
-Enhanced Logger for Unity Mod Manager
+Enhanced Logs for Unity Mod Manager
 
 * Colorized logs
 * Show logs on the Screen
