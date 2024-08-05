@@ -1,0 +1,10 @@
+{
+    "Releases":
+    [
+        {
+            "Id": "BetterUnityModManagerLogger", 
+            "Version": "1.0.0", 
+            "DownloadUrl": "https://github.com/Gorzontrok/Better-UnityModManager-Logger/raw/main/Release/BetterUnityModManagerLogger-v1.0.0.zip"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Id": "BetterUnityModManagerLogger",
+  "DisplayName": "Better-UnityModManager-Logger",
+  "Author": "Gorzontrok",
+  "Version": "1.0.0",
+  "AssemblyName": "BetterUnityModManagerLogger.dll",
+  "EntryMethod": "BetterUnityModManagerLogger.Main.Load",
+  "Repository": "https://raw.githubusercontent.com/Gorzontrok/Better-UnityModManager-Logger/main/Repository.json",
+  "HomePage": "https://github.com/Gorzontrok/Better-UnityModManager-Logger"
+}
